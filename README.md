@@ -11,3 +11,4 @@ firstblood
 				-->进入github的settings > SSH and GPG keys >new SSH key (title随意)<br/>
 6、add->commit (commit后进入注释编辑模式，退出方式：esc键，软后键入":x",回车退出).<br/>
 7、键入命令git config --global credential.helper store 解决每次push都需要输入密码的问题。
+8、如果要使项目能够通过网站打开，需在项目的settings-GitHub Pages下进行设置
